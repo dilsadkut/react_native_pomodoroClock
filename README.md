@@ -1,5 +1,5 @@
 # Pomodoro Clock App
-# About The Application
+## About The Application <br>
 Simple pomodoro clock application with react native for mobile programming class.
 
 <br>
